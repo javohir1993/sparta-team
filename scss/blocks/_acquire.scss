@@ -1,0 +1,22 @@
+.acquire-skill {
+  padding: 96px 114px;
+}
+
+.acquire-skill__heading {
+  margin: 0;
+  font-weight: 900;
+  color: $color-heading;
+  font-size: 68px;
+  text-align: center;
+  letter-spacing: 3.4px;
+}
+
+.acquire-skill__heading-text {
+  margin: 0;
+  font-family: "Besom";
+  font-size: 180px;
+  line-height: normal;
+  transform: translateX(4%) translateY(-45%);
+  opacity: 0.1;
+  color: #32383f;
+}
